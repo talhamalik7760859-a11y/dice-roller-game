@@ -2,7 +2,7 @@
 A Python-based dice roller game that simulates rolling dice with random outcomes--built as a beginner-friendly command-line project.
 # Complete Dice Roller Simulator
 
-A comprehensive dice rolling application with statistics tracking, game modes, and a user-friendly interface. Available in Python, JavaScript, and Java.
+A comprehensive dice rolling application with statistics tracking, game modes, and a user-friendly interface. Available in Python.
 
 # Features
 
